@@ -1,0 +1,50 @@
+@options
+@packages
+-classpath
+'/Users/mpayne/.m2/repository/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar:/Users/mpayne/.m2/repository/org/projectlombok/lombok/1.18.38/lombok-1.18.38.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'/Users/mpayne/git/FeignDemo1/common/src/main/java:/Users/mpayne/git/FeignDemo1/common/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/mpayne/git/FeignDemo1/common/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Common Library 0.0.1 API'
+-use
+-version
+-windowtitle
+'Common Library 0.0.1 API'
+org.mattpayne.demo
+/Users/mpayne/.m2/repository/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar = 1681961530760
+/Users/mpayne/.m2/repository/org/projectlombok/lombok/1.18.38/lombok-1.18.38.jar = 1743423692000
+/Users/mpayne/git/FeignDemo1/common/src/main/java = 1751505222155
+/Users/mpayne/git/FeignDemo1/common/target/generated-sources/annotations = 1751506034525
+/Users/mpayne/git/FeignDemo1/common/target/apidocs/tag-search-index.js = 1751506046371
+/Users/mpayne/git/FeignDemo1/common/target/apidocs/overview-tree.html = 1751506046348
+/Users/mpayne/git/FeignDemo1/common/target/apidocs/module-search-index.js = 1751506046370
+/Users/mpayne/git/FeignDemo1/common/target/apidocs/index.html = 1751506046390
+/Users/mpayne/git/FeignDemo1/common/target/apidocs/package-search-index.js = 1751506046370
+/Users/mpayne/git/FeignDemo1/common/target/apidocs/link.svg = 1751506046419
+/Users/mpayne/git/FeignDemo1/common/target/apidocs/index-all.html = 1751506046379
+/Users/mpayne/git/FeignDemo1/common/target/apidocs/allpackages-index.html = 1751506046370
+/Users/mpayne/git/FeignDemo1/common/target/apidocs/member-search-index.js = 1751506046371
+/Users/mpayne/git/FeignDemo1/common/target/apidocs/copy.svg = 1751506046418
+/Users/mpayne/git/FeignDemo1/common/target/apidocs/script.js = 1751506046418
+/Users/mpayne/git/FeignDemo1/common/target/apidocs/stylesheet.css = 1751506046417
+/Users/mpayne/git/FeignDemo1/common/target/apidocs/search-page.js = 1751506046422
+/Users/mpayne/git/FeignDemo1/common/target/apidocs/help-doc.html = 1751506046410
+/Users/mpayne/git/FeignDemo1/common/target/apidocs/element-list = 1751506046272
+/Users/mpayne/git/FeignDemo1/common/target/apidocs/search.html = 1751506046387
+/Users/mpayne/git/FeignDemo1/common/target/apidocs/allclasses-index.html = 1751506046365
+/Users/mpayne/git/FeignDemo1/common/target/apidocs/type-search-index.js = 1751506046371
+/Users/mpayne/git/FeignDemo1/common/target/apidocs/search.js = 1751506046421

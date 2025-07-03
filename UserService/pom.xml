@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>org.mattpayne.demo</groupId>
-	<artifactId>feign</artifactId>
+	<artifactId>UserService</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>feign demo</name>
+	<name>UserService</name>
 	<description>Watch that auto retry magic!</description>
 	<url/>
 	<licenses>
@@ -37,6 +37,11 @@
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.mattpayne.demo</groupId>
+			<artifactId>common</artifactId>
+			<version>0.0.1</version>
 		</dependency>
 		<dependency>
 			<groupId>org.projectlombok</groupId>

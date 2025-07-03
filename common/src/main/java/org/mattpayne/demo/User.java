@@ -1,4 +1,4 @@
-package org.mattpayne.demo.feign;
+package org.mattpayne.demo;
 
 
 import lombok.AllArgsConstructor;

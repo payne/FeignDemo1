@@ -1,5 +1,6 @@
 package org.mattpayne.demo.feign;
 
+import org.mattpayne.demo.User;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.http.ResponseEntity;

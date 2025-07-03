@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>org.mattpayne.demo</groupId>
-	<artifactId>feign</artifactId>
+	<artifactId>NotificationService</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>feign demo</name>
+	<name>NotificationService</name>
 	<description>Watch that auto retry magic!</description>
 	<url/>
 	<licenses>
