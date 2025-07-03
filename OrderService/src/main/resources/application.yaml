@@ -1,9 +1,12 @@
 spring:
   application:
     name: OrderService
+    logging:
+      level:
+        org.mattpayne.demo.feign: DEBUG
 
 server:
-  port: 8080
+  port: 8082
 
 # Feign client configuration
 feign:
