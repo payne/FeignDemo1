@@ -1,0 +1,33 @@
+spring:
+  application:
+    name: OrderService
+
+server:
+  port: 8080
+
+# Feign client configuration
+feign:
+  client:
+    config:
+      default:
+        connectTimeout: 5000
+        readTimeout: 5000
+        loggerLevel: basic
+
+      # Specific configuration for your client
+      external-api:
+        connectTimeout: 10000
+        readTimeout: 10000
+
+        # Retry configuration
+        retryer:
+          period: 1000      # Initial interval between retries (ms)
+          maxPeriod: 3000   # Maximum interval between retries (ms)
+          maxAttempts: 3    # Maximum number of retry attempts
+
+# Enable debug logging for Feign (optional)
+logging:
+  level:
+    com.example.client: DEBUG
+    feign: DEBUG
+
